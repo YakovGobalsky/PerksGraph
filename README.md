@@ -1,2 +1,5 @@
 # PerksGraph
-Simple unity project
+
+Simple unity project. Reflex, R3, UniTask.
+
+Work in progress.
